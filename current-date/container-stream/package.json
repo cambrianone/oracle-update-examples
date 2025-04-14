@@ -1,5 +1,5 @@
 {
-  "name": "update-oracle-stream",
+  "name": "update-oracle-stream-current-date",
   "scripts": {
     "build": "tsc"
   },

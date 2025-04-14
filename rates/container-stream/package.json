@@ -1,5 +1,5 @@
 {
-  "name": "update-oracle-run-current-date",
+  "name": "update-oracle-run-rates",
   "scripts": {
     "build": "tsc"
   },
